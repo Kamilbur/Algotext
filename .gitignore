@@ -1,5 +1,7 @@
 # Own ignores
 *.pdf
+# File too big (own)
+lab01/tests/wikipedia-tail-kruszwil.txt
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
